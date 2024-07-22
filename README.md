@@ -1,4 +1,4 @@
-# idre
+# IDRE
 IDRE (Italian Dataset for Rephrasing with Empathy)
 
 IDRE is a novel linguistic resource generated automatically for Italian comprising typical chatbot user utterances in healthcare domain, corresponding chatbot responses, and empathetically enhanced chatbot responses. These phrases were generated using the llama2 language model and evaluated by human raters based on predefined metrics.
